@@ -3,6 +3,7 @@
   publish = "."
 
 [functions]
+  directory = "netlify/functions"  # 必须明确指定这个目录
   node_bundler = "esbuild"
 
 [[redirects]]
