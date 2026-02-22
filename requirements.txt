@@ -2,3 +2,5 @@ flask>=2.0.0
 scipy>=1.7.0
 sympy>=1.9
 gunicorn>=20.1.0
+mangum>=0.1.0
+flask-cors>=4.0.0
